@@ -1,7 +1,7 @@
 <div allign = "center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=DAF7A6&height=170&section=header&text=Welcome!%20&fontSize=90"/></div>
-<br>
-<h2 style="border"align="center"> I'm a college student studying Computer Science, especially Backend </h2>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=DAF7A6&height=130&section=header&text=Welcome!%20&fontSize=90"/></div>
+
+<h2 style="border"align="center"> "I'm a college student studying Computer Science, especially Backend"</h2>
 <br>
 <div align="center">
 <h3>  
