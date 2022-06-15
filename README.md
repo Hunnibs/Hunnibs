@@ -1,6 +1,5 @@
 <div allign = "center">
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=DAF7A6&height=130&section=header&text=Hello%20World!&fontSize=90&"/></div>
-<br>
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=4c84b9&height=200&section=header&text=Hello%20World!&fontSize=70&"/></div>
 
 <div align="center">
 <h3>  
