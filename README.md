@@ -1,8 +1,7 @@
 <div allign = "center">
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=DAF7A6&height=130&section=header&text=Welcome!%20&fontSize=90"/></div>
-<p style="text-align:center; border: 5px solid #C9C9C9; padding: 0.3em 1em;border-radius: 2px;">
-"I'm a college student studying Computer Science, especially Backend"
-</p>
+<br>
+
 <div align="center">
 <h3>  
 &#128238; Email &#128238;
