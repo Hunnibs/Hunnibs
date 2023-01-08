@@ -7,7 +7,6 @@ cqqudgjs@hufs.ac.kr
 
 <p align="center"><img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cqqudgjs"></p>
 
-<br>
 <h3 align="center">&#9000; Now studying &#9000; </h3>
 <div align="center">
 <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
