@@ -1,5 +1,4 @@
-<div allign = "center">
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=4c84b9&height=200&section=header&text=Hello%20World!&fontSize=70&"/></div>
+<p align="center"><img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cqqudgjs"></p>
 
 <div align="center">
 <h3>  
@@ -36,5 +35,3 @@ cqqudgjs@hufs.ac.kr
 <br>
 <img src = "https://github-readme-stats.vercel.app/api?username=Hunnibs&show_icons=true&theme=vue-dark"/>
 </div>
-
-<p align="center"><img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cqqudgjs"></p>
