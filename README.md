@@ -1,11 +1,11 @@
-<p align="center"><img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cqqudgjs"></p>
-
 <div align="center">
 <h3>  
 &#128238; Email &#128238;
 <br>
 cqqudgjs@hufs.ac.kr
 </h3>
+
+<p align="center"><img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cqqudgjs"></p>
 
 <br>
 <h3 align="center">&#9000; Now studying &#9000; </h3>
