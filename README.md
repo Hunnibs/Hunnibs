@@ -1,8 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Starving%20Developer%20&fontSize=90"/>
 <br>
 
-<p align="center"><img src = "https://github-readme-stats.vercel.app/api?username=Hunnibs&show_icons=true&theme=vue-dark"/></p>
-
 <div align="center">
 <h3>  &#128238; Email &#128238; </h3>
 cqqudgjs@hufs.ac.kr
@@ -35,7 +33,8 @@ cqqudgjs@hufs.ac.kr
 <img src = "https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
 <img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div>
-
 <br>
+
+<h3 align="center">💎 BAEKJOON TIER 💎</h3>
 <p align="center"><img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cqqudgjs"></p>
 <br>
