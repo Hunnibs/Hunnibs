@@ -36,5 +36,5 @@ cqqudgjs@hufs.ac.kr
 <br>
 
 <h3 align="center">💎 BAEKJOON TIER 💎</h3>
-<p align="center"><img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cqqudgjs"></p>
+<p align="center"><img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hunnibs"></p>
 <br>
