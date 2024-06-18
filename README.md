@@ -3,7 +3,7 @@
 
 <div align="center">
 <h3>  &#128238; Email &#128238; </h3>
-cqqudgjs@hufs.ac.kr
+hunnibs97@gmail.com
 </div>
 <br>
 
